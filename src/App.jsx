@@ -103,7 +103,7 @@ export const App = () => {
 
   return (
     <Container>
-      <h1>Welcome to Time Stamp with IA</h1>
+      <h1>Welcome to Time Stamp with Neuronal Network</h1>
       <span>{initializing ? 'Initializing' : 'Ready'}</span>
       <VideoContainer>
         <video
