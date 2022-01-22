@@ -46,4 +46,12 @@ export const mockUsers = [
       'https://res.cloudinary.com/vicflores11/image/upload/v1642551847/Vic/me_nmx08y.jpg',
     ],
   },
+
+  {
+    name: 'Stefany Lue',
+    img: [
+      'https://res.cloudinary.com/vicflores11/image/upload/v1642893340/Lue/lue_te3cwg.jpg',
+      'https://res.cloudinary.com/vicflores11/image/upload/v1642893337/Lue/lue2_o6kuai.jpg',
+    ],
+  },
 ];
